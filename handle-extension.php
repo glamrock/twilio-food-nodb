@@ -16,7 +16,7 @@
 	# @start snippet
 	else if ($user_pushed == 19104)
 	{
-		echo '<Say>St. Marys food pantry is located at 38th and Spruce. 215.555.1234.</Say>';
+		echo '<Say>Your nearest food bank is St. Marys food pantry is located at 38th and Spruce. 215.555.1234.</Say>';
 	}
 	# @end snippet
 	else if ($user_pushed == 19143)
