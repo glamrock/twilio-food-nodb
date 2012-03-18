@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Gather action="handle-user-input.php" numDigits="1">
+		<Say>Welcome to the Philly Food Bank Hotline</Say>
+		<Say>For more information about Phil abundance, press 1.</Say>
+		<Say>To find the nearest food bank, press 2.</Say>
+	</Gather>
+	<!-- If customer doesn't input anything, prompt and try again. -->
+	<Say>Sorry, please try again.</Say>
+	<Redirect>handle-incoming-call.xml</Redirect>
+</Response>
