@@ -1,5 +1,7 @@
 <h2>Twilio Food Banks</h2>
 
+<h3>What is?</h3>
+This is a small app that is meant to be used with a <a href="https://twilio.com">Twilio</a> account.  
 
 <h3>License:</h3>
 
